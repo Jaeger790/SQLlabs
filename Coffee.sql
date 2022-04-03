@@ -1,5 +1,5 @@
-CREATE DATABASE JauntryCoffeeCo;
-USE JauntryCoffeeCo;
+CREATE DATABASE EveningCoffee;
+USE EveningCoffee;
 
 
 --Create employee table
